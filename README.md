@@ -56,10 +56,3 @@ Proyecto enfocado en la detección y reconocimiento de objetos utilizando modelo
 ## 📫 Contacto
 
 📧 **Correo:** [jcpita@espol.edu.ec](mailto:jcpita@espol.edu.ec)
-
-
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JenniferPita\&show_icons=true\&locale=es)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferPita\&layout=compact\&locale=es)
