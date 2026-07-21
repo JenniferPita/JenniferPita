@@ -6,6 +6,7 @@ Soy **Ingeniera Química** graduada de la **Escuela Superior Politécnica del Li
 
 Me apasiona la tecnología y el aprendizaje continuo. Actualmente estoy fortaleciendo mis conocimientos en **JavaScript, SQL, Git y GitHub**, con el objetivo de desarrollarme profesionalmente como **Desarrolladora Full Stack**.
 
+---
 
 ## 🚀 Tecnologías y herramientas
 
@@ -27,6 +28,7 @@ Me apasiona la tecnología y el aprendizaje continuo. Actualmente estoy fortalec
 * Git *(aprendiendo)*
 * GitHub *(aprendiendo)*
 
+---
 
 ## 📂 Proyecto destacado
 
@@ -34,6 +36,9 @@ Me apasiona la tecnología y el aprendizaje continuo. Actualmente estoy fortalec
 
 Proyecto enfocado en la detección y reconocimiento de objetos utilizando modelos de aprendizaje profundo como **YOLO** y herramientas de visión por computadora con **OpenCV**.
 
+> Próximamente agregaré el enlace al repositorio del proyecto.
+
+---
 
 ## 📚 Actualmente estoy aprendiendo
 
@@ -43,6 +48,7 @@ Proyecto enfocado en la detección y reconocimiento de objetos utilizando modelo
 * Desarrollo Full Stack
 * Buenas prácticas de desarrollo de software
 
+---
 
 ## 🎯 Áreas de interés
 
@@ -52,7 +58,10 @@ Proyecto enfocado en la detección y reconocimiento de objetos utilizando modelo
 * Machine Learning
 * Ingeniería de Software
 
+---
 
 ## 📫 Contacto
 
 📧 **Correo:** [jcpita@espol.edu.ec](mailto:jcpita@espol.edu.ec)
+
+---
