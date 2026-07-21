@@ -36,8 +36,6 @@ Me apasiona la tecnología y el aprendizaje continuo. Actualmente estoy fortalec
 
 Proyecto enfocado en la detección y reconocimiento de objetos utilizando modelos de aprendizaje profundo como **YOLO** y herramientas de visión por computadora con **OpenCV**.
 
-> Próximamente agregaré el enlace al repositorio del proyecto.
-
 ---
 
 ## 📚 Actualmente estoy aprendiendo
